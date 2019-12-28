@@ -4,9 +4,9 @@ This Bot is created for learning purposes, It can login via Firefox and like the
 
 
 ### Prerequisites-
-- A system with Python installed. [LINK]https://www.python.org/
-- Geckodriver [LINK]https://github.com/mozilla/geckodriver/releases
-- Mozilla Firefox [LINK]https://www.mozilla.org/en-US/firefox/new/
+- A system with Python installed. [LINK](https://www.python.org/)
+- Geckodriver [LINK](https://github.com/mozilla/geckodriver/releases)
+- Mozilla Firefox [LINK](https://www.mozilla.org/en-US/firefox/new/)
 
 **Steps to use this bot-**
 1. Copy the geckodriver.exe file to the location where your Python is installed.
